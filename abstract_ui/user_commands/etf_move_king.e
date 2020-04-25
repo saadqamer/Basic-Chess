@@ -1,6 +1,6 @@
 note
 	description: "Move King command"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
