@@ -1,6 +1,6 @@
 note
 	description: "Singleton access to the default business model."
-	author: "Jackie Wang"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
