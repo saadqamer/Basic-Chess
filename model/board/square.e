@@ -1,6 +1,6 @@
 note
 	description: "A chess square woth position [x, y]"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
