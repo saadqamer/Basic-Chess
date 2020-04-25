@@ -1,7 +1,7 @@
 
 note
 	description: "Chess board of varying sizes."
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
