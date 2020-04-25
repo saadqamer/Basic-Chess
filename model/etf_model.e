@@ -1,6 +1,6 @@
 note
 	description: "Root for the business logic of game"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
