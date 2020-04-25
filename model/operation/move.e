@@ -5,7 +5,7 @@ note
 		`directions` must be effected relative to the this piece,
 		as well as execute, undo and redo.
 		]"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
