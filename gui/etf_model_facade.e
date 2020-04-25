@@ -1,6 +1,6 @@
 note
 	description: "A facade class for easy manipulation of the business objects."
-	author: "Jackie Wang"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
