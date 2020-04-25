@@ -1,6 +1,6 @@
 note
 	description: "An output handler for the GUI mode of ETF."
-	author: "JSO and Jackie Wang"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
