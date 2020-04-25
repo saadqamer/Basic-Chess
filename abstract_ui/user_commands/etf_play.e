@@ -1,6 +1,6 @@
 note
 	description: ""
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
