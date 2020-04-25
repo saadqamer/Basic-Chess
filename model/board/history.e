@@ -1,6 +1,6 @@
 note
 	description: "History operations for undo/redo design pattern"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
