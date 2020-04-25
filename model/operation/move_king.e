@@ -1,6 +1,6 @@
 note
 	description: "Move operation with undo/redo"
-	author: "JSO"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
